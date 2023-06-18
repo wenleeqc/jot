@@ -1,5 +1,6 @@
 # Jot
 <img src="jot-screenshot.png" width=300 alt="Jot screenshot">
+
 ### A notes app that doesn't take itself too seriously.
 A neat little chrome extension to jot down some quick notes.
 
