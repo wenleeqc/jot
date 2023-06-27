@@ -18,3 +18,4 @@ A neat little chrome extension to jot down some quick notes.
 - HTML
 - CSS
 - JavaScript
+- Chrome API
