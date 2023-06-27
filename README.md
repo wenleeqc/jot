@@ -4,7 +4,7 @@
 ### A notes app that doesn't take itself too seriously.
 A neat little chrome extension to jot down some quick notes.
 
-## Walkthrough
+## Walkthrough:
 <img src="jot-walkthrough.gif" width=300 alt="jot walkthrough">
 
 ## Features:
