@@ -1,8 +1,11 @@
 # jot
-<img src="jot-screenshot.png" width=300 alt="Jot screenshot">
+<img src="jot-screenshot.png" width=300 alt="jot screenshot">
 
 ### A notes app that doesn't take itself too seriously.
 A neat little chrome extension to jot down some quick notes.
+
+## Walkthrough
+<img src="jot-walkthrough.gif" width=300 alt="jot walkthrough">
 
 ## Features:
 - Save notes quickly
