@@ -11,7 +11,7 @@ A neat little chrome extension to jot down some quick notes.
 - Save notes quickly
 - Easily delete notes with a simple double click
 - Uses localStorage for persistence
-- Comes in fun colors to bright up your day
+- Comes in fun colors to brighten up your day
 - Dark and light themes
 
 ## Built with:
